@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0127/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說阿羅漢具德經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0126.xml
+    old_id: T02n0126
+hash: sha256:8677f9db63e9b32f84e70dee4e664e0c1297a224e318d28a4576a713205ed15c
