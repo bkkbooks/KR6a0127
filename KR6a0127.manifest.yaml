@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0127_000.yaml, hash: 'sha256:8677f9db63e9b32f84e70dee4e664e0c1297a224e318d28a4576a713205ed15c'}
-  - {seq: 1, filename: KR6a0127_001.yaml, hash: 'sha256:7d5f45ee0f7535558564a894feb944a2a5d07dd9e4551a11e6c5f05e55d93531'}
+  - {seq: 1, filename: KR6a0127_001.yaml, hash: 'sha256:77025439147691fbec36037d74cfdab6cf19e59b5ce02bfe62e182ecd88be3e5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0127_001.markers.yaml, hash: 'sha256:7e1e638883213180ae20e54b0309100ea3ad69ba49444acc8133f5650b1091b9'}
+  - {seq: 0, role: markers, filename: assets/KR6a0127_000.markers.yaml, hash: 'sha256:f0a2392d6c57142804b4e730cf096ee8d31d9069bad355731cd493d2fe7fb82e'}
+  - {seq: 1, role: markers, filename: assets/KR6a0127_001.markers.yaml, hash: 'sha256:cfe206d6132f085fffb8d231b7fb693e880d122d4327595a44fb5ebfc028f968'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說阿羅漢具德經
   type: juan
   level: 1
-hash: sha256:d83232415a8caa76a06ee32fdeb38a5a34fea908b9485926e373cd9f74ac55a6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:476a1d9b4898b1591ee59b3234859cde3b56f9b9fa46b91ed714a65a18c057d7
