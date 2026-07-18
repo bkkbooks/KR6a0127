@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0127_000-T.yaml, hash: 'sha256:8677f9db63e9b32f84e70dee4e664e0c1297a224e318d28a4576a713205ed15c'}
   - {seq: 1, filename: KR6a0127_001-T.yaml, hash: 'sha256:77025439147691fbec36037d74cfdab6cf19e59b5ce02bfe62e182ecd88be3e5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0127_000-T.markers.yaml, hash: 'sha256:d4c5fd23f32597aa06b99701181012574eb06fccbe48b2fbc863d82a4048d517'}
+  - {seq: 0, role: markers, filename: assets/KR6a0127_000-T.markers.yaml, hash: 'sha256:d9425b7afe94e0f750da8eb48ed8473d4aa70eeb706f75ccf52b9cfb50e63129'}
   - {seq: 1, role: markers, filename: assets/KR6a0127_001-T.markers.yaml, hash: 'sha256:65012e4a5625d56773459ffc43578a237369cb0a54a0e621e8192089d9582d1d'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說阿羅漢具德經
   type: juan
   level: 1
-hash: sha256:4ab143ab7374dc95f5b674aa30d3b52f50dcfacce601f223e5caae73dc498808
+hash: sha256:325102fef05f0eb77ebb77b7298177609a57d37a63d3d716600b74115d47c6a0
